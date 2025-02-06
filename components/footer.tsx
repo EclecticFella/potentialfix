@@ -28,7 +28,7 @@ export function Footer() {
 
             {/* Buttons */}
             <div className="flex flex-col sm:flex-row gap-4">
-              <a href="mailto:hushly@gmail.com">
+              <a href="mailto:hushlyonboard@tuta.io">
                 <Button
                   size="lg"
                   className="bg-roseGold text-white hover:bg-roseGold/80 transition-colors w-full sm:w-auto px-12 py-7 text-xl"
@@ -51,7 +51,7 @@ export function Footer() {
                     </svg>
                     <div className="flex flex-col items-start">
                       <span className="text-sm">Send us an email</span>
-                      <span className="text-xs">hushly@gmail.com</span>
+                      <span className="text-xs">hushlyonboard@tuta.io</span>
                     </div>
                   </span>
                 </Button>
